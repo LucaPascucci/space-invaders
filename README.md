@@ -12,4 +12,4 @@ more details: http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit?
 
 To make sure everything works fine, please run the code on Visual Studio 2012 with openGL libraries installed.
 
-For any question, please contact: luca.pascucci@studio.unibo.it
+For any question, please contact: [luca.pascucci@studio.unibo.it](mailto:luca.pascucci@studio.unibo.it)
