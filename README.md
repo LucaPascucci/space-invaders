@@ -5,7 +5,9 @@ Space Invaders game simulator. It has been written using openGL libraries.
 **Details**
 
 Computer Science and Engineering University of Bologna, Cesena Campus
+
 Computer Graphic course - Damiana Lazzaro
+
 more details: http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit?annoAccademico=2014&idComponenteAF=385075
 
 **Libraries**
