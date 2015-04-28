@@ -4,6 +4,8 @@ Space Invaders game simulator. It has been written using openGL libraries.
 
 ![SpaceInvaders1.PNG](https://bitbucket.org/repo/L6RgEX/images/1736324775-SpaceInvaders1.PNG)
 
+![SpaceInvaders2.PNG](https://bitbucket.org/repo/L6RgEX/images/4045499295-SpaceInvaders2.PNG)
+
 **Details**
 
 Computer Science and Engineering University of Bologna, Cesena Campus
